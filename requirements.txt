@@ -7,5 +7,5 @@ numpy
 scikit-image
 matplotlib
 scipy
-opencv-python
+opencv-python-headless
 keras-cv-attention-models
